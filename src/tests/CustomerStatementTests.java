@@ -1,7 +1,7 @@
 package tests;
 
 import static org.junit.Assert.*;
-
+// user2 test commit
 import org.junit.Test;
 
 import core.Customer;
